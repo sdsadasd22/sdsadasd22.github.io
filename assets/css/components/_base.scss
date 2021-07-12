@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color: $blue;
+  color: $primary;
 }
 
 img {
@@ -55,7 +55,7 @@ img {
 
   blockquote {
     border-radius: 10px;
-    border-left: 7px solid $blue;
+    border-left: 7px solid $primary;
     padding-left: 1rem;
 
     p {
@@ -111,6 +111,6 @@ img {
 }
 
 ::selection {
-  background: $blue;
+  background: $primary;
   color: white;
 }
